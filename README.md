@@ -1,5 +1,3 @@
-# Hi 👋, I'm Alan
-
 ### ML/DL developer
 
 - 🔭 I'm currently working on **CV project**
