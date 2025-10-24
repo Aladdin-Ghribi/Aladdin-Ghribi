@@ -1,5 +1,4 @@
 # 💫 About Me:
-🌱I'm currently learning flutter
 
 
 ## 🌐 Socials:
