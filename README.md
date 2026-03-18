@@ -1,4 +1,4 @@
-### ML/DL developer
+### python developer
 
 - 🔭 I'm currently working on **CV project**
 
