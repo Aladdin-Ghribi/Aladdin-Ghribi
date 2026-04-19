@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Aladdin Ghribi
+###  Hi, I'm Aladdin Ghribi
 
 **Python Backend Developer** | FastAPI • Django • REST APIs
 
@@ -6,13 +6,13 @@ I build production-ready backend systems with a focus on clean architecture, asy
 
 ---
 
-### 🔭 What I'm Working On
+###  What I'm Working On
 
 - **FastAPI Template** – A modern starter template with `uv`, Docker, PostgreSQL, logging, and testing
 - **Google Calendar Time Blocker** – OAuth2 integration to create events from simple category inputs\
 ---
 
-### 📫 Contact
+###  Contact
 
 - **Email**: alanghribideveloper@gmail.com
 - **GitHub**: [Aladdin-Ghribi](https://github.com/Aladdin-Ghribi)
@@ -20,7 +20,7 @@ I build production-ready backend systems with a focus on clean architecture, asy
 
 ---
 
-### 🛠️ Languages & Tools
+###  Languages & Tools
 
 #### Backend
 ![Python](https://skillicons.dev/icons?i=py)
@@ -46,7 +46,7 @@ I build production-ready backend systems with a focus on clean architecture, asy
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 ![Aladdin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aladdin-Ghribi&show_icons=true&theme=dark)
 
@@ -58,7 +58,7 @@ I build production-ready backend systems with a focus on clean architecture, asy
 
 **[fastapi-template](https://github.com/Aladdin-Ghribi/fastApi_template)**
 
-> A production-ready FastAPI starter template with `uv` package manager, async SQLAlchemy, Docker Compose, logging with correlation IDs, and pytest setup.
+> A production-ready FastAPI starter template with `uv` package manager, async SQLAlchemy, Docker Compose, logging , and pytest setup.
 
 Clone and start building in minutes:
 ```bash
