@@ -44,15 +44,6 @@ I build production-ready backend systems with a focus on clean architecture, asy
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![CSS3](https://skillicons.dev/icons?i=css)
 
----
-
-###  GitHub Stats
-
-![Aladdin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aladdin-Ghribi&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aladdin-Ghribi&layout=compact&theme=dark)
-
----
 
 ### 🚀 Featured Project
 
