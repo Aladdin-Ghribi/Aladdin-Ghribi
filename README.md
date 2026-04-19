@@ -1,15 +1,69 @@
-### python developer
+### 👋 Hi, I'm Aladdin Ghribi
 
-- 🔭 I'm currently working on **CV project**
+**Python Backend Developer** | FastAPI • Django • REST APIs
 
-- 📫 How to reach me **alanghribideveloper@gmail.com**
+I build production-ready backend systems with a focus on clean architecture, async patterns, and real-world integrations.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Aladdin-Ghribi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Aladdin-Ghribi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Aladdin Ghribi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aladdin Ghribi" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/keras" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a></p>
+### 🔭 What I'm Working On
 
+- **FastAPI Template** – A modern starter template with `uv`, Docker, PostgreSQL, logging, and testing
+- **Google Calendar Time Blocker** – OAuth2 integration to create events from simple category inputs\
+---
+
+### 📫 Contact
+
+- **Email**: alanghribideveloper@gmail.com
+- **GitHub**: [Aladdin-Ghribi](https://github.com/Aladdin-Ghribi)
+- **LinkedIn**: [Aladdin Ghribi](https://linkedin.com/in/Aladdin-Ghribi)
+
+---
+
+### 🛠️ Languages & Tools
+
+#### Backend
+![Python](https://skillicons.dev/icons?i=py)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![Django](https://skillicons.dev/icons?i=django)
+![Flask](https://skillicons.dev/icons?i=flask)
+
+#### Databases & DevOps
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+
+#### Data Science & ML
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
+![PyTorch](https://skillicons.dev/icons?i=pytorch)
+![OpenCV](https://skillicons.dev/icons?i=opencv)
+![scikit-learn](https://skillicons.dev/icons?i=sklearn)
+
+#### Frontend (Basic)
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
+
+---
+
+### 📊 GitHub Stats
+
+![Aladdin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aladdin-Ghribi&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aladdin-Ghribi&layout=compact&theme=dark)
+
+---
+
+### 🚀 Featured Project
+
+**[fastapi-template](https://github.com/Aladdin-Ghribi/fastApi_template)**
+
+> A production-ready FastAPI starter template with `uv` package manager, async SQLAlchemy, Docker Compose, logging with correlation IDs, and pytest setup.
+
+Clone and start building in minutes:
+```bash
+git clone https://github.com/Aladdin-Ghribi/fastApi_template.git
+cd fastApi_template
+uv venv && uv sync
+docker compose up -d
+uv run uvicorn app.main:app --reload
